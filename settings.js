@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = false 
-global.userRegister = false 
+global.userRegister = true 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -28,16 +28,16 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "LaxxyBotz" //namabot kalian
 global.ownername= "Laxxy Botz" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
+global.myweb ="https://nontonanime66.blogspot.com" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/LaxxyBotz" //bebas asal jan hapus
+global.myweb2 = "https://instagram.com/LaxxyBotz" //bebas
 global.email = "iceostore442@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6281617967693'] //premium user
-global.owner = ["62881617967693","6281617967693"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6281617967693" // nomor wa kalian
-global.ownernomerr = "6281617967693" //nmr wa kalian
+global.premium = ['6282311272942'] //premium user
+global.owner = ["6282311272942","6282311272942"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282311272942" // nomor wa kalian
+global.ownernomerr = "6282311272942" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
